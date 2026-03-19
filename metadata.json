@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Global Solar Suitability Dashboard",
+  "description": "An interactive dashboard that visualizes global solar suitability based on key climate metrics. It features a 3D globe, detailed site analytics, and monthly irradiance charts to aid in optimal solar site selection.",
+  "requestFramePermissions": []
+}
